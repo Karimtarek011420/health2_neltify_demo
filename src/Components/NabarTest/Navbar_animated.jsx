@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 import { useSelector } from "react-redux";
 import { selectUser } from "../../features/UserSlice";
 import './Navbar_animated.css';
-import "@fortawesome/fontawesome-free/css/all.min.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 
